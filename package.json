@@ -1,0 +1,15 @@
+{
+  "name": "paths-problem",
+  "version": "1.0.0",
+  "description": "Solving the path problem",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yaseen Al Mufti",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^3.8.0",
+    "chartjs-node-canvas": "^4.1.6"
+  }
+}
